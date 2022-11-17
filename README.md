@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makhabatabd&show_icons=true&locale=en" alt="makhabatabd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makhabatabd&" alt="makhabatabd" /></p>
+
+<a href="https://www.codewars.com/users/Makhabat%20Abdisattarova"><img src="https://www.codewars.com/users/Makhabat%20Abdisattarova/badges/large"></a>
