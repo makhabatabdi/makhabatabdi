@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makhabatabd&label=Profile%20views&color=0e75b6&style=flat" alt="makhabatabd" /> </p>
 
-- 🌱 I’m currently learning **Next.Js, React Native, Vue**
+- 🌱 I’m efficient at **Next.Js, React Native, Vue**
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS**
 
-- 📫 How to reach me **makhabat9898@gmail.com**
+- 📫 How to reach me **abdisattarovamakhabat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
