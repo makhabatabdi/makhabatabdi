@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://rishavchanda.io)
+(https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Makhabat</h1>
 <h3 align="center">I am a passionate Full Stack Developer in CA, USA</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
@@ -17,7 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makhabatabd&show_icons=true&locale=en&layout=compact" alt="makhabatabd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makhabatabd&show_icons=true&locale=en" alt="makhabatabd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makhabatabd&" alt="makhabatabd" /></p>
 
 <a href="https://www.codewars.com/users/Makhabat%20Abdisattarova"><img src="https://www.codewars.com/users/Makhabat%20Abdisattarova/badges/large"></a>
